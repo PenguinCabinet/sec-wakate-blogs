@@ -6,6 +6,9 @@
 ## あなたの参加記を追加しましょう
 記事一覧のフォーマットは「\[記事名(ハンドルネーム or 会社名)\]\(https://example.com )」です。
 
+## [第4回 セキュリティ若手の会（LT&交流会）](https://sec-wakate.connpass.com/event/369404/)
+* [第4回 セキュリティ若手の会（LT&交流会） 登壇記(ペンギン内閣)](https://qiita.com/PenguinCabinet/items/a4824a0c8084bd7ed158)
+
 ## [第3回 セキュリティ若手の会（ワークショップ&交流会)](https://sec-wakate.connpass.com/event/357530/)
 * [セキュリティ若手の会第3回イベント協賛＆参加レポート(NTTドコモビジネス)](https://engineers.ntt.com/entry/202509-sec_wakate_3rd/entry)
 
